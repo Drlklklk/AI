@@ -86,7 +86,7 @@ const handleSubmit = async (e) => {
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
 
-    const response = await fetch('https://76.76.21.142:5010/', {
+    const response = await fetch('https://backend-qkkm.onrender.com/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
