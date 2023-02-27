@@ -86,7 +86,7 @@ const handleSubmit = async (e) => {
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
 
-    const response = await fetch('https://ai-dm3e.onrender.com/', {
+    const response = await fetch('https://216.24.57.253:5000/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
