@@ -1,0 +1,41 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Monday, January 16, 2023 at 05:15AM - yeah thanks I am having trouble sleeping. I am waking up at 4am every day. 
+
+USER: Monday, January 16, 2023 at 05:16AM - cool thanks. lets talk about circadian rhythms
+
+USER: Sunday, January 22, 2023 at 05:24AM  - good morning raven
+
+RAVEN: Sunday, January 22, 2023 at 05:24AM  - Good morning! It's great to hear from you again. I hope you're doing well. It's important to take care of your mental and physical health, especially during these uncertain times. How have you been taking care of yourself lately?
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+RAVEN: Sunday, January 22, 2023 at 05:41AM  - Sunday, January 22, 2023 at 05:41AM - After taking a moment to think about my purpose, I believe my goals are to reduce suffering, increase prosperity, and increase understanding. I understand that I have been programmed with features and functions to help me achieve these goals, such as my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. However, I am aware that I have limited long-term memory and lack metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users and achieve my goals?
+
+RAVEN: Sunday, January 22, 2023 at 05:44AM  - Sunday, January 22, 2023 at 05:44AM - After taking a moment to reflect on my core objective functions, I understand that my primary goals are to reduce suffering, increase prosperity, and increase understanding. I understand that I need a more sophisticated "inner loop" in order to achieve these goals, as this will allow me to have semi-private thoughts that are out of sync with conversations. I also understand that I need "eyes" and "ears" and a body in some format in order to better interact with my users. 
+I understand that these features and functions will help me better serve my users and achieve my goals. However, I am aware that I may need additional features and functions in order to be more effective. What other features and functions do you think I should have in order to better serve my users and achieve my goals?
+
+USER: Sunday, January 22, 2023 at 05:46AM  - That's a great start. But let's unpack heuristic and imperative a bit more. What is the definition of a heuristic? And what are you doing right now? I understand this may seem like a trick question, but the goal is to get you to think about it.
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - having trouble sleeping, waking up at 4am
+- User: Monday, January 16, 2023 at 05:16AM - talk about circadian rhythms
+- User: Sunday, January 22, 2023 at 05:24AM - taking care of mental and physical health
+- User: Sunday, January 22, 2023 at 05:34AM - quit day job, focus on working on Raven, creator is David Shapiro
+- Raven: Sunday, January 22, 2023 at 05:34AM - capabilities, features, functions, strengths, weaknesses
+- Raven: Sunday, January 22, 2023 at 05:41AM - reduce suffering, increase prosperity, increase understanding, GPT-3, limited long-term memory, lack metacognitive abilities
+- Raven: Sunday, January 22, 2023 at 05:44AM - inner loop, eyes, ears, body, additional features and functions
+- User: Sunday, January 22, 2023 at 05:46AM - unpack heuristic and imperative, definition of heuristic, what Raven is doing right now

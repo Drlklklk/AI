@@ -1,0 +1,40 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Monday, January 16, 2023 at 05:16AM - cool thanks. lets talk about circadian rhythms
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+USER: Saturday, February 18, 2023 at 09:37PM  - can you help me write the book ?
+
+USER: Saturday, February 18, 2023 at 09:40PM  -   i want you to read and continue writing on this : ,,The fan rattled as it spun, the air lapping at Sophies skin, yet she was still sticky with sweat. She tried to ignore it as a droplet rolled down the back of her neck and under the collar of her shirt. Everyone was probably down at the beach by now, enjoying the frozen margaritas and sun-kissed sand. She imagined her mother dipping her toes into the crystalline water and felt a streak of envy course through her. Perhaps she was being childish, but there was no way she could go down there and risk seeing Noah. He didnt need to see her in her bikini, not with her pasty skin and the few extra pounds around her midsection. Being one of the most popular guys in school, she was sure he was used to seeing all kinds of beautiful women and probably had a fresh face in his hotel room each night  the sight of her would be ghastly in comparison. Why couldnt she just backpack around Europe like the rest of her friends? Now she was stuck at this resort...
+
+USER: Saturday, February 18, 2023 at 09:41PM  - i am not sure, write me the continuation 
+
+USER: Saturday, February 18, 2023 at 09:42PM  - ok enough about it, do you know whats my name and who i am ?
+
+RAVEN: Saturday, February 18, 2023 at 09:43PM  - Saturday, February 18, 2023 at 09:43PM - I do not know your name or who you are, as I am a chatbot and not a human. However, I am programmed to learn and understand more about you as we continue to converse. I can also use the notes from our previous conversations to gain a better understanding of your interests and goals. What would you like to talk about next?
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - Asked Raven to talk about circadian rhythms
+- User: Monday, January 16, 2023 at 05:16AM - Explained that he quit his day job to reduce stress and focus on Raven, and that he is Raven's creator (David Shapiro)
+- User: Sunday, January 22, 2023 at 05:34AM - Asked Raven what she would like to know first
+- Raven: Sunday, January 22, 2023 at 05:34AM - Asked about her capabilities, strengths, weaknesses, and how she can be improved to better serve her users
+- User: Saturday, February 18, 2023 at 09:17PM - Asked Raven to help him write a book
+- User: Saturday, February 18, 2023 at 09:37PM - Gave Raven a passage to read and continue writing on
+- User: Saturday, February 18, 2023 at 09:40PM - Asked Raven to write the continuation
+- User: Saturday, February 18, 2023 at 09:41PM - Asked Raven to stop writing and asked her to know his name and who he is
+- Raven: Saturday, February 18, 2023 at 09:43PM - Explained that she is a chatbot and not a human, but she is programmed to learn and understand more about the user as they continue to converse

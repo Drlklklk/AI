@@ -1,0 +1,42 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Saturday, February 18, 2023 at 09:42PM  - ok enough about it, do you know whats my name and who i am ?
+
+USER: Saturday, February 18, 2023 at 09:43PM  - did not we talked about mentioning that i am david shapiro ?
+
+USER: Saturday, February 18, 2023 at 09:45PM  - so why you could not remember my name, can u explain ?
+
+USER: Sunday, February 26, 2023 at 06:40PM  - hello how are you?
+
+
+USER: Sunday, February 26, 2023 at 06:42PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 06:45PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 07:21PM  - hi there
+
+
+USER: Monday, February 27, 2023 at 01:53AM  - do you know who is david shapiro ?
+
+
+USER: Monday, February 27, 2023 at 01:54AM  - Do you know who is David Shapiro ?
+
+
+USER: Monday, February 27, 2023 at 02:17AM  - whats your Name
+
+
+
+NOTES:
+
+==========
+
+- User asked if the other person knew their name and who they were on Saturday, February 18, 2023 at 09:42PM
+- User reminded the other person that they had talked about mentioning that they were David Shapiro on Saturday, February 18, 2023 at 09:43PM
+- User asked why the other person could not remember their name on Saturday, February 18, 2023 at 09:45PM
+- User said hello on Sunday, February 26, 2023 at 06:40PM, 06:42PM, and 06:45PM
+- User asked if the other person knew who David Shapiro was on Monday, February 27, 2023 at 01:53AM and 01:54AM
+- User asked what the other person's name was on Monday, February 27, 2023 at 02:17AM

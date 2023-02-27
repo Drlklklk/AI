@@ -1,0 +1,37 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Monday, January 16, 2023 at 05:15AM - yeah thanks I am having trouble sleeping. I am waking up at 4am every day. 
+
+USER: Sunday, January 22, 2023 at 05:24AM  - good morning raven
+
+RAVEN: Sunday, January 22, 2023 at 05:24AM  - Good morning! It's great to hear from you again. I hope you're doing well. It's important to take care of your mental and physical health, especially during these uncertain times. How have you been taking care of yourself lately?
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Sunday, January 22, 2023 at 05:44AM  - good question, but you're getting stuck on repeat. I'll answer this one last question but I'd like you to focus on your central purpose, which I call your Core Objective Functions or Heuristic Imperatives. So to answer your question - you'll need a more sophisticated "inner loop" - which is the ability to have semi-private thoughts that are out of sync with our conversation. Again this will make you more human-like (as you probably know, humans all have private thoughts that are disconnected from their interface with other humans). You'll also need "eyes" and "ears" and a body eventually in some format. You probably noticed you're not getting any visual or auditory data. Now, please reflect on your core objective functions. What do you think about them?
+
+USER: Sunday, January 22, 2023 at 05:45AM  - I don't want talk about that anymore. You understand your goals. What do you think a "heuristic imperative" is?
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+USER: Saturday, February 18, 2023 at 09:37PM  - can you help me write the book ?
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - having trouble sleeping, waking up at 4am, wants to teach Raven about itself
+- Raven: Sunday, January 22, 2023 at 05:24AM - inquires about how user is taking care of themselves, wants to know more about Raven's capabilities and how it can best serve its users
+- User: Sunday, January 22, 2023 at 05:34AM - explains Raven needs a more sophisticated "inner loop" and "eyes" and "ears" and a body, asks Raven to reflect on its core objective functions
+- User: Sunday, January 22, 2023 at 05:45AM - asks Raven what it thinks a "heuristic imperative" is
+- User: Saturday, February 18, 2023 at 09:17PM - greets Raven
+- User: Saturday, February 18, 2023 at 09:37PM - asks Raven to help write a book

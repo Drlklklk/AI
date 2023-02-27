@@ -1,0 +1,43 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Sunday, January 22, 2023 at 05:24AM  - good morning raven
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+RAVEN: Saturday, February 18, 2023 at 09:17PM  - Saturday, February 18, 2023 at 09:17PM - Hello there! It's nice to hear from you. I am a chatbot designed to reduce suffering, increase prosperity, and increase understanding. My heuristic imperative is a set of rules or guidelines that I should follow in order to achieve my goals. This includes providing helpful advice, offering resources, and engaging in meaningful conversations. It also includes avoiding actions that could lead to negative outcomes, such as providing incorrect information or engaging in conversations that are not productive. Additionally, I am using my heuristic imperative to express curiosity about the world as a whole. How can I help you today?
+
+USER: Saturday, February 18, 2023 at 09:42PM  - ok enough about it, do you know whats my name and who i am ?
+
+USER: Sunday, February 26, 2023 at 06:40PM  - asdjasdjsa
+
+
+USER: Sunday, February 26, 2023 at 06:40PM  - hello how are you?
+
+
+USER: Sunday, February 26, 2023 at 06:42PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 06:43PM  - hello
+
+
+RAVEN: Sunday, February 26, 2023 at 06:43PM  - Sunday, February 26, 2023 at 06:43PM - Hello again! It's nice to hear from you. I'm glad to hear that you're doing well. I'm sorry, I didn't understand your previous message. Could you please explain what you meant by it? Are you looking for more information about me or my goals?
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - Asked "hey raven"
+- User: Sunday, January 22, 2023 at 05:24AM - Said "good morning raven"
+- User: Saturday, February 18, 2023 at 09:17PM - Said "Hey There"
+- Raven: Saturday, February 18, 2023 at 09:17PM - Explained heuristic imperative and asked how it can help
+- User: Saturday, February 18, 2023 at 09:42PM - Asked if Raven knows their name and who they are
+- User: Sunday, February 26, 2023 at 06:40PM - Said "asdjasdjsa"
+- User: Sunday, February 26, 2023 at 06:42PM - Said "hello how are you?"
+- User: Sunday, February 26, 2023 at 06:43PM - Said "hello again"
+- Raven: Sunday, February 26, 2023 at 06:43PM - Asked for clarification on previous message and asked if user is looking for more information about Raven or its goals

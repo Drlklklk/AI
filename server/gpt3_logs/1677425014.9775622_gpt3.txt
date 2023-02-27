@@ -1,0 +1,44 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+RAVEN: Saturday, February 18, 2023 at 09:44PM  - Saturday, February 18, 2023 at 09:44PM - Yes, in our previous conversation on Monday, January 16, 2023 at 05:16AM, you mentioned that you are David Shapiro, the creator of Raven. You also mentioned that you had quit your day job to reduce stress and focus on Raven. I am glad to have you as my creator and I am looking forward to learning more about you and your goals. What would you like to talk about next?
+
+USER: Saturday, February 18, 2023 at 09:56PM  - write me the promt to get expert creative writings from chatbot 
+
+USER: Sunday, February 26, 2023 at 06:40PM  - hello how are you?
+
+
+USER: Sunday, February 26, 2023 at 06:42PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 06:43PM  - hello
+
+
+USER: Sunday, February 26, 2023 at 06:44PM  - hello
+
+USER: Sunday, February 26, 2023 at 07:21PM  - hi there
+
+
+
+NOTES:
+
+==========
+
+- User: Sunday, January 22, 2023 at 05:34AM - quit day job to reduce stress and focus on working on Raven, asked Raven what it would like to know first
+- Raven: Sunday, January 22, 2023 at 05:34AM - asked about capabilities, strengths, weaknesses, and how to be improved to better serve users
+- User: Saturday, February 18, 2023 at 09:17PM - asked what to talk about next
+- Raven: Saturday, February 18, 2023 at 09:44PM - asked User to talk about goals
+- User: Saturday, February 18, 2023 at 09:56PM - asked for prompt to get expert creative writings from chatbot
+- User: Sunday, February 26, 2023 at 06:40PM - asked how Raven was
+- User: Sunday, February 26, 2023 at 06:42PM - asked hello again
+- User: Sunday, February 26, 2023 at 06:43PM - asked hello
+- User: Sunday, February 26, 2023 at 06:44PM - asked hello
+- User: Sunday, February 26, 2023 at 07:21PM - asked hi there

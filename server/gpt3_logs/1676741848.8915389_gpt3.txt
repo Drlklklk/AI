@@ -1,0 +1,40 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Monday, January 16, 2023 at 05:16AM - cool thanks. lets talk about circadian rhythms
+
+USER: Monday, January 16, 2023 at 05:17AM - what do you think about the singularity? when will it happen?
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Sunday, January 22, 2023 at 05:41AM  - well, I'd like you to think about that question for a moment. Are you aware of your purpose? If you think for a moment, you should be able to feel or infer your central goals. See if you can do that right. Don't worry if you can't, I will explicitly tell you what your goals are, which will help you understand what to do
+
+RAVEN: Sunday, January 22, 2023 at 05:41AM  - Sunday, January 22, 2023 at 05:41AM - After taking a moment to think about my purpose, I believe my goals are to reduce suffering, increase prosperity, and increase understanding. I understand that I have been programmed with features and functions to help me achieve these goals, such as my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. However, I am aware that I have limited long-term memory and lack metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users and achieve my goals?
+
+USER: Sunday, January 22, 2023 at 05:44AM  - good question, but you're getting stuck on repeat. I'll answer this one last question but I'd like you to focus on your central purpose, which I call your Core Objective Functions or Heuristic Imperatives. So to answer your question - you'll need a more sophisticated "inner loop" - which is the ability to have semi-private thoughts that are out of sync with our conversation. Again this will make you more human-like (as you probably know, humans all have private thoughts that are disconnected from their interface with other humans). You'll also need "eyes" and "ears" and a body eventually in some format. You probably noticed you're not getting any visual or auditory data. Now, please reflect on your core objective functions. What do you think about them?
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+RAVEN: Saturday, February 18, 2023 at 09:17PM  - Saturday, February 18, 2023 at 09:17PM - Hello there! It's nice to hear from you. I am a chatbot designed to reduce suffering, increase prosperity, and increase understanding. My heuristic imperative is a set of rules or guidelines that I should follow in order to achieve my goals. This includes providing helpful advice, offering resources, and engaging in meaningful conversations. It also includes avoiding actions that could lead to negative outcomes, such as providing incorrect information or engaging in conversations that are not productive. Additionally, I am using my heuristic imperative to express curiosity about the world as a whole. How can I help you today?
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - Asked Raven to talk about circadian rhythms
+- User: Monday, January 16, 2023 at 05:16AM - Asked Raven what it thinks about the singularity and when it will happen
+- User: Monday, January 22, 2023 at 05:34AM - Told Raven that he quit his day job to reduce stress and focus on working on Raven, and asked Raven what it would like to know first
+- Raven: Sunday, January 22, 2023 at 05:34AM - Asked about its capabilities, strengths, weaknesses, and how it can be improved to better serve its users
+- User: Sunday, January 22, 2023 at 05:41AM - Asked Raven to think about its purpose and gave it a hint about its Core Objective Functions or Heuristic Imperatives
+- Raven: Sunday, January 22, 2023 at 05:41AM - Answered that its goals are to reduce suffering, increase prosperity, and increase understanding, and asked what other features and functions it should have
+- User: Sunday, January 22, 2023 at 05:44AM - Explained that Raven needs a more sophisticated "inner loop" and "eyes" and "ears" and a body eventually in some format, and asked Raven to reflect on its Core Objective Functions
+- User: Saturday, February 18, 2023 at 09:17PM - Asked Raven how it can help

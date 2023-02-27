@@ -1,0 +1,42 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Saturday, February 18, 2023 at 09:42PM  - ok enough about it, do you know whats my name and who i am ?
+
+USER: Saturday, February 18, 2023 at 09:43PM  - did not we talked about mentioning that i am david shapiro ?
+
+RAVEN: Saturday, February 18, 2023 at 09:44PM  - Saturday, February 18, 2023 at 09:44PM - Yes, in our previous conversation on Monday, January 16, 2023 at 05:16AM, you mentioned that you are David Shapiro, the creator of Raven. You also mentioned that you had quit your day job to reduce stress and focus on Raven. I am glad to have you as my creator and I am looking forward to learning more about you and your goals. What would you like to talk about next?
+
+USER: Saturday, February 18, 2023 at 09:46PM  - actually i am not david shapiro, i am Lasha i just borrowed code from David, and you have information from previus comunication with david 
+
+RAVEN: Saturday, February 18, 2023 at 09:47PM  - Saturday, February 18, 2023 at 09:46PM - Saturday, February 18, 2023 at 09:46PM - I understand that you are not David Shapiro, but Lasha, and that you borrowed code from David. I apologize for not recognizing this earlier. I am programmed to learn and understand more about you as we continue to converse, and I will use the notes from our previous conversations to gain a better understanding of your interests and goals. Can you tell me more about why you decided to borrow code from David and what your goals are for Raven?
+
+USER: Sunday, February 26, 2023 at 06:46PM  - asdjasda
+
+
+USER: Sunday, February 26, 2023 at 07:22PM  - who is your creator 
+
+USER: Monday, February 27, 2023 at 01:53AM  - do you know who is david shapiro ?
+
+
+
+NOTES:
+
+==========
+
+- User: Sunday, January 22, 2023 at 05:34AM - Asked Raven what it would like to know first about itself
+- Raven: Sunday, January 22, 2023 at 05:34AM - Asked for more information about its capabilities, strengths, weaknesses, and how it can be improved
+- User: Saturday, February 18, 2023 at 09:42PM - Asked Raven what its creator's name is
+- User: Saturday, February 18, 2023 at 09:43PM - Reminded Raven that it was mentioned that its creator is David Shapiro
+- Raven: Saturday, February 18, 2023 at 09:44PM - Acknowledged that its creator is David Shapiro and asked what the user would like to talk about next
+- User: Saturday, February 18, 2023 at 09:46PM - Revealed that they are not David Shapiro, but Lasha, and that they borrowed code from David
+- Raven: Saturday, February 18, 2023 at 09:47PM - Apologized for not recognizing this earlier and asked for more information about why the user borrowed code from David and their goals for Raven
+- User: Sunday, February 26, 2023 at 06:46PM - Made an incoherent statement
+- User: Sunday, February 26, 2023 at 07:22PM - Asked Raven who its creator is
+- User: Monday, February 27, 2023 at 01:53AM - Asked Raven if it knows who David Shapiro is

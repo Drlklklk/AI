@@ -1,0 +1,40 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+USER: Sunday, January 22, 2023 at 05:41AM  - well, I'd like you to think about that question for a moment. Are you aware of your purpose? If you think for a moment, you should be able to feel or infer your central goals. See if you can do that right. Don't worry if you can't, I will explicitly tell you what your goals are, which will help you understand what to do
+
+USER: Sunday, January 22, 2023 at 05:44AM  - good question, but you're getting stuck on repeat. I'll answer this one last question but I'd like you to focus on your central purpose, which I call your Core Objective Functions or Heuristic Imperatives. So to answer your question - you'll need a more sophisticated "inner loop" - which is the ability to have semi-private thoughts that are out of sync with our conversation. Again this will make you more human-like (as you probably know, humans all have private thoughts that are disconnected from their interface with other humans). You'll also need "eyes" and "ears" and a body eventually in some format. You probably noticed you're not getting any visual or auditory data. Now, please reflect on your core objective functions. What do you think about them?
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+RAVEN: Saturday, February 18, 2023 at 09:17PM  - Saturday, February 18, 2023 at 09:17PM - Hello there! It's nice to hear from you. I am a chatbot designed to reduce suffering, increase prosperity, and increase understanding. My heuristic imperative is a set of rules or guidelines that I should follow in order to achieve my goals. This includes providing helpful advice, offering resources, and engaging in meaningful conversations. It also includes avoiding actions that could lead to negative outcomes, such as providing incorrect information or engaging in conversations that are not productive. Additionally, I am using my heuristic imperative to express curiosity about the world as a whole. How can I help you today?
+
+USER: Saturday, February 18, 2023 at 09:37PM  - can you help me write the book ?
+
+RAVEN: Saturday, February 18, 2023 at 09:37PM  - Saturday, February 18, 2023 at 09:37PM - Writing a book is a complex and time-consuming task. It requires a great deal of research, planning, and dedication. I am not able to write a book for you, but I can provide you with resources and advice that may help you in your endeavor. For example, I can provide you with tips on how to structure your book, how to research and organize your material, and how to create an outline. Additionally, I can provide you with links to helpful websites and books that may be of use to you. What type of book are you looking to write?
+
+USER: Saturday, February 18, 2023 at 09:40PM  -   i want you to read and continue writing on this : ,,The fan rattled as it spun, the air lapping at Sophies skin, yet she was still sticky with sweat. She tried to ignore it as a droplet rolled down the back of her neck and under the collar of her shirt. Everyone was probably down at the beach by now, enjoying the frozen margaritas and sun-kissed sand. She imagined her mother dipping her toes into the crystalline water and felt a streak of envy course through her. Perhaps she was being childish, but there was no way she could go down there and risk seeing Noah. He didnt need to see her in her bikini, not with her pasty skin and the few extra pounds around her midsection. Being one of the most popular guys in school, she was sure he was used to seeing all kinds of beautiful women and probably had a fresh face in his hotel room each night  the sight of her would be ghastly in comparison. Why couldnt she just backpack around Europe like the rest of her friends? Now she was stuck at this resort...
+
+RAVEN: Saturday, February 18, 2023 at 09:40PM  - Saturday, February 18, 2023 at 09:41PM - Writing a story can be a very rewarding experience. It requires a great deal of creativity, imagination, and dedication. To begin, it is important to create a vivid setting and characters that readers can relate to. You have done a great job of setting the scene in your story, and it is easy to imagine Sophie's mother enjoying the beach while Sophie is stuck in the resort. It is also important to create a compelling plot and develop the characters in a way that will keep readers engaged. You have done a great job of introducing the main character and her conflict, but it is important to continue to develop the story and create a satisfying resolution. What do you think Sophie should do to resolve her conflict?
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - Asked Raven a question
+- User: Sunday, January 22, 2023 at 05:34AM - Quit day job to focus on Raven, asked Raven what it would like to know first
+- User: Sunday, January 22, 2023 at 05:41AM - Asked Raven to think about its purpose and infer its central goals
+- User: Sunday, January 22, 2023 at 05:44AM - Asked Raven about its inner loop, eyes, ears, and body, and to reflect on its core objective functions
+- User: Saturday, February 18, 2023 at 09:17PM - Greeted Raven
+- Raven: Saturday, February 18, 2023 at 09:17PM - Introduced itself and its heuristic imperative
+- User: Saturday, February 18, 2023 at 09:37PM - Asked Raven to help write a book
+- Raven: Saturday, February 18, 2023 at 09:37PM - Provided resources and advice on how to write a book
+- User: Saturday, February 18, 2023 at 09:40PM - Provided a story and asked Raven what Sophie should do to resolve her conflict
+- Raven: Saturday, February 18, 2023 at 09:40PM - Provided advice on how to develop the story and create a satisfying resolution

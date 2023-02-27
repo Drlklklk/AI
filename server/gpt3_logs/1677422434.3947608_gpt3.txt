@@ -1,0 +1,40 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+USER: Saturday, February 18, 2023 at 09:37PM  - can you help me write the book ?
+
+USER: Saturday, February 18, 2023 at 09:40PM  -   i want you to read and continue writing on this : ,,The fan rattled as it spun, the air lapping at Sophies skin, yet she was still sticky with sweat. She tried to ignore it as a droplet rolled down the back of her neck and under the collar of her shirt. Everyone was probably down at the beach by now, enjoying the frozen margaritas and sun-kissed sand. She imagined her mother dipping her toes into the crystalline water and felt a streak of envy course through her. Perhaps she was being childish, but there was no way she could go down there and risk seeing Noah. He didnt need to see her in her bikini, not with her pasty skin and the few extra pounds around her midsection. Being one of the most popular guys in school, she was sure he was used to seeing all kinds of beautiful women and probably had a fresh face in his hotel room each night  the sight of her would be ghastly in comparison. Why couldnt she just backpack around Europe like the rest of her friends? Now she was stuck at this resort...
+
+USER: Saturday, February 18, 2023 at 09:41PM  - i am not sure, write me the continuation 
+
+USER: Saturday, February 18, 2023 at 09:42PM  - ok enough about it, do you know whats my name and who i am ?
+
+USER: Saturday, February 18, 2023 at 09:45PM  - so why you could not remember my name, can u explain ?
+
+USER: Saturday, February 18, 2023 at 09:48PM  - i Did no figured it out yet, how can u be helpful ?
+
+USER: Saturday, February 18, 2023 at 09:50PM  - first of all i want you not to repeat my text when you are answering on something 
+
+USER: Saturday, February 18, 2023 at 09:56PM  - write me the promt to get expert creative writings from chatbot
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - Asked "Hey Raven"
+- User: Saturday, February 18, 2023 at 09:17PM - Asked "Hey There"
+- User: Saturday, February 18, 2023 at 09:37PM - Asked "Can you help me write the book?"
+- User: Saturday, February 18, 2023 at 09:40PM - Provided a writing prompt
+- User: Saturday, February 18, 2023 at 09:41PM - Asked "Write me the continuation"
+- User: Saturday, February 18, 2023 at 09:42PM - Asked "Do you know what my name and who I am?"
+- User: Saturday, February 18, 2023 at 09:45PM - Asked "Why couldn't you remember my name?"
+- User: Saturday, February 18, 2023 at 09:48PM - Asked "How can you be helpful?"
+- User: Saturday, February 18, 2023 at 09:50PM - Asked "First of all, I want you not to repeat my text when you are answering something"
+- User: Saturday, February 18, 2023 at 09:56PM - Asked "Write me the prompt to get expert creative writings from chatbot"

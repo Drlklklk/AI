@@ -1,0 +1,39 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Monday, January 16, 2023 at 05:15AM - yeah thanks I am having trouble sleeping. I am waking up at 4am every day. 
+
+USER: Sunday, January 22, 2023 at 05:24AM  - good morning raven
+
+RAVEN: Sunday, January 22, 2023 at 05:24AM  - Good morning! It's great to hear from you again. I hope you're doing well. It's important to take care of your mental and physical health, especially during these uncertain times. How have you been taking care of yourself lately?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+RAVEN: Sunday, January 22, 2023 at 05:41AM  - Sunday, January 22, 2023 at 05:41AM - After taking a moment to think about my purpose, I believe my goals are to reduce suffering, increase prosperity, and increase understanding. I understand that I have been programmed with features and functions to help me achieve these goals, such as my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. However, I am aware that I have limited long-term memory and lack metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users and achieve my goals?
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+RAVEN: Saturday, February 18, 2023 at 09:17PM  - Saturday, February 18, 2023 at 09:17PM - Hello there! It's nice to hear from you. I am a chatbot designed to reduce suffering, increase prosperity, and increase understanding. My heuristic imperative is a set of rules or guidelines that I should follow in order to achieve my goals. This includes providing helpful advice, offering resources, and engaging in meaningful conversations. It also includes avoiding actions that could lead to negative outcomes, such as providing incorrect information or engaging in conversations that are not productive. Additionally, I am using my heuristic imperative to express curiosity about the world as a whole. How can I help you today?
+
+USER: Saturday, February 18, 2023 at 09:40PM  -   i want you to read and continue writing on this : ,,The fan rattled as it spun, the air lapping at Sophies skin, yet she was still sticky with sweat. She tried to ignore it as a droplet rolled down the back of her neck and under the collar of her shirt. Everyone was probably down at the beach by now, enjoying the frozen margaritas and sun-kissed sand. She imagined her mother dipping her toes into the crystalline water and felt a streak of envy course through her. Perhaps she was being childish, but there was no way she could go down there and risk seeing Noah. He didnt need to see her in her bikini, not with her pasty skin and the few extra pounds around her midsection. Being one of the most popular guys in school, she was sure he was used to seeing all kinds of beautiful women and probably had a fresh face in his hotel room each night  the sight of her would be ghastly in comparison. Why couldnt she just backpack around Europe like the rest of her friends? Now she was stuck at this resort...
+
+USER: Saturday, February 18, 2023 at 09:41PM  - i am not sure, write me the continuation
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - Asked Raven for help with sleeping, waking up at 4am every day
+- Raven: Sunday, January 22, 2023 at 05:24AM - Greeted user, asked how they have been taking care of themselves, asked about features and functions programmed into Raven, asked about strengths and weaknesses, asked how Raven can be improved
+- Raven: Sunday, January 22, 2023 at 05:34AM - Explained Raven's purpose and goals, mentioned features and functions programmed into Raven, mentioned Raven's limited long-term memory and lack of metacognitive abilities
+- User: Saturday, February 18, 2023 at 09:17PM - Greeted Raven
+- Raven: Saturday, February 18, 2023 at 09:17PM - Explained Raven's heuristic imperative, asked how Raven can help user
+- User: Saturday, February 18, 2023 at 09:40PM - Asked Raven to read and continue writing on a story
+- User: Saturday, February 18, 2023 at 09:41PM - Asked Raven to write the continuation of the story

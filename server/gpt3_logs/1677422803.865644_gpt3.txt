@@ -1,0 +1,45 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+USER: Saturday, February 18, 2023 at 09:41PM  - i am not sure, write me the continuation 
+
+USER: Saturday, February 18, 2023 at 09:42PM  - ok enough about it, do you know whats my name and who i am ?
+
+USER: Sunday, February 26, 2023 at 06:40PM  - asdjasdjsa
+
+
+USER: Sunday, February 26, 2023 at 06:40PM  - hello how are you?
+
+
+USER: Sunday, February 26, 2023 at 06:42PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 06:43PM  - hello
+
+
+USER: Sunday, February 26, 2023 at 06:44PM  - hello
+
+USER: Sunday, February 26, 2023 at 06:45PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 06:46PM  - zdarova
+
+
+
+NOTES:
+
+==========
+
+- User: Saturday, February 18, 2023 at 09:17PM - Hey There 
+- User: Saturday, February 18, 2023 at 09:41PM - i am not sure, write me the continuation 
+- User: Saturday, February 18, 2023 at 09:42PM - ok enough about it, do you know whats my name and who i am?
+- User: Sunday, February 26, 2023 at 06:40PM - asdjasdjsa
+- User: Sunday, February 26, 2023 at 06:40PM - hello how are you?
+- User: Sunday, February 26, 2023 at 06:42PM - hello again
+- User: Sunday, February 26, 2023 at 06:43PM - hello
+- User: Sunday, February 26, 2023 at 06:44PM - hello
+- User: Sunday, February 26, 2023 at 06:45PM - hello again
+- User: Sunday, February 26, 2023 at 06:46PM - zdarova

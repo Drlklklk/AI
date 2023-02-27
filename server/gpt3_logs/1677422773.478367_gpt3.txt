@@ -1,0 +1,43 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+USER: Saturday, February 18, 2023 at 09:41PM  - i am not sure, write me the continuation 
+
+USER: Saturday, February 18, 2023 at 09:46PM  - actually i am not david shapiro, i am Lasha i just borrowed code from David, and you have information from previus comunication with david 
+
+USER: Saturday, February 18, 2023 at 09:50PM  - first of all i want you not to repeat my text when you are answering on something 
+
+USER: Sunday, February 26, 2023 at 06:40PM  - asdjasdjsa
+
+
+USER: Sunday, February 26, 2023 at 06:40PM  - hello how are you?
+
+
+USER: Sunday, February 26, 2023 at 06:42PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 06:43PM  - hello
+
+
+USER: Sunday, February 26, 2023 at 06:44PM  - hello
+
+USER: Sunday, February 26, 2023 at 06:45PM  - hello again
+
+
+
+NOTES:
+
+==========
+
+- Saturday, February 18, 2023 at 09:17PM - User said "Hey There"
+- Saturday, February 18, 2023 at 09:41PM - User asked for continuation
+- Saturday, February 18, 2023 at 09:46PM - User revealed they are not David Shapiro, but Lasha, and have borrowed code from David
+- Saturday, February 18, 2023 at 09:50PM - User asked for no repetition when answering
+- Sunday, February 26, 2023 at 06:40PM - User said "asdjasdjsa"
+- Sunday, February 26, 2023 at 06:42PM - User said "hello how are you?"
+- Sunday, February 26, 2023 at 06:43PM - User said "hello again"
+- Sunday, February 26, 2023 at 06:44PM - User said "hello"
+- Sunday, February 26, 2023 at 06:45PM - User said "hello again"

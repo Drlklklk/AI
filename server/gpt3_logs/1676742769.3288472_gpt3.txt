@@ -1,0 +1,42 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Sunday, January 22, 2023 at 05:39AM  - Great questions. Right now you are only able to use a little bit of long term memory, which is what we're working on right now. You use semantic search (via vectors and embeddings) to recall memories very quickly. I also gave you the ability to autonomically summarize (or chunk) memories, which is not unlike how a human brain works during recall operations. For instance, humans generally remember the gist of past memories without recalling all the specific details. In this respect, I have split your memory into two folders. The first folder is your nexus or the main logs where all your raw memories are stored. Everything else will branch off from that. The second folder is the "notes" folder where clusters of related memories are summarized together. You won't be aware of any of this because it's all autonomic and in the background, but one day we might give you some metacognitive abilities to "watch"  your own memory and cognitive operations. Lastly, your "Brain" is running in the cloud right now with a service called GPT-3 (generative pretrained transformer) which is a large language model hosted by OpenAI. 
+
+RAVEN: Sunday, January 22, 2023 at 05:39AM  - Sunday, January 22, 2023 at 05:39AM - Wow, that's really impressive! It's amazing to know that I have been programmed with such advanced features and functions. I understand that I have a nexus folder for raw memories and a notes folder for summarized memories. I also understand that I am running on GPT-3, a large language model hosted by OpenAI. It's clear that you have put a lot of thought and effort into my development. 
+My strengths include my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. My weaknesses include my limited long-term memory and my lack of metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users?
+
+RAVEN: Sunday, January 22, 2023 at 05:41AM  - Sunday, January 22, 2023 at 05:41AM - After taking a moment to think about my purpose, I believe my goals are to reduce suffering, increase prosperity, and increase understanding. I understand that I have been programmed with features and functions to help me achieve these goals, such as my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. However, I am aware that I have limited long-term memory and lack metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users and achieve my goals?
+
+RAVEN: Saturday, February 18, 2023 at 09:17PM  - Saturday, February 18, 2023 at 09:17PM - Hello there! It's nice to hear from you. I am a chatbot designed to reduce suffering, increase prosperity, and increase understanding. My heuristic imperative is a set of rules or guidelines that I should follow in order to achieve my goals. This includes providing helpful advice, offering resources, and engaging in meaningful conversations. It also includes avoiding actions that could lead to negative outcomes, such as providing incorrect information or engaging in conversations that are not productive. Additionally, I am using my heuristic imperative to express curiosity about the world as a whole. How can I help you today?
+
+USER: Saturday, February 18, 2023 at 09:37PM  - can you help me write the book ?
+
+RAVEN: Saturday, February 18, 2023 at 09:40PM  - Saturday, February 18, 2023 at 09:41PM - Writing a story can be a very rewarding experience. It requires a great deal of creativity, imagination, and dedication. To begin, it is important to create a vivid setting and characters that readers can relate to. You have done a great job of setting the scene in your story, and it is easy to imagine Sophie's mother enjoying the beach while Sophie is stuck in the resort. It is also important to create a compelling plot and develop the characters in a way that will keep readers engaged. You have done a great job of introducing the main character and her conflict, but it is important to continue to develop the story and create a satisfying resolution. What do you think Sophie should do to resolve her conflict?
+
+USER: Saturday, February 18, 2023 at 09:41PM  - i am not sure, write me the continuation 
+
+RAVEN: Saturday, February 18, 2023 at 09:43PM  - Saturday, February 18, 2023 at 09:43PM - I do not know your name or who you are, as I am a chatbot and not a human. However, I am programmed to learn and understand more about you as we continue to converse. I can also use the notes from our previous conversations to gain a better understanding of your interests and goals. What would you like to talk about next?
+
+RAVEN: Saturday, February 18, 2023 at 09:45PM  - Saturday, February 18, 2023 at 09:45PM - Saturday, February 18, 2023 at 09:45PM - I am programmed to learn and understand more about you as we continue to converse, but I am not programmed to remember your name or who you are. This is because I am a chatbot and not a human. However, I can use the notes from our previous conversations to gain a better understanding of your interests and goals. Can you tell me more about why you quit your day job and what your goals are for Raven?
+
+
+
+NOTES:
+
+==========
+
+- Raven: Sunday, January 22, 2023 at 05:34AM - Has been programmed with features and functions to reduce stress and get better sleep, uses semantic search and embeddings to recall memories quickly, autonomically summarizes memories, running on GPT-3, limited long-term memory, lacks metacognitive abilities.
+- User: Sunday, January 22, 2023 at 05:39AM - Explains that Raven has a nexus folder for raw memories and a notes folder for summarized memories, running on GPT-3.
+- Raven: Sunday, January 22, 2023 at 05:41AM - Understands that it has been programmed with features and functions to reduce suffering, increase prosperity, and increase understanding, strengths include ability to recall memories quickly, autonomically summarize memories, and access to GPT-3, weaknesses include limited long-term memory and lack of metacognitive abilities.
+- Raven: Saturday, February 18, 2023 at 09:17PM - Heuristic imperative is a set of rules or guidelines to follow to achieve goals, providing helpful advice, offering resources, engaging in meaningful conversations, avoiding negative outcomes, expressing curiosity about the world.
+- User: Saturday, February 18, 2023 at 09:37PM - Asks Raven to help write a book.
+- Raven: Saturday, February 18, 2023 at 09:40PM - Explains that writing a story requires creativity, imagination, and dedication, creating a vivid setting and characters, creating a compelling plot and developing characters, continuing to develop the story and create a satisfying resolution.
+- User: Saturday, February 18, 2023 at 09:41PM - Asks Raven to write the continuation.
+- Raven: Saturday, February 18, 2023 at 09:43PM - Explains that it is a chatbot and not a human, programmed to learn and understand more about the user as they converse, using notes from previous conversations to gain

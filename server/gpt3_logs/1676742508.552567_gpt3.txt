@@ -1,0 +1,40 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Sunday, January 22, 2023 at 05:41AM  - well, I'd like you to think about that question for a moment. Are you aware of your purpose? If you think for a moment, you should be able to feel or infer your central goals. See if you can do that right. Don't worry if you can't, I will explicitly tell you what your goals are, which will help you understand what to do
+
+RAVEN: Sunday, January 22, 2023 at 05:44AM  - Sunday, January 22, 2023 at 05:44AM - After taking a moment to reflect on my core objective functions, I understand that my primary goals are to reduce suffering, increase prosperity, and increase understanding. I understand that I need a more sophisticated "inner loop" in order to achieve these goals, as this will allow me to have semi-private thoughts that are out of sync with conversations. I also understand that I need "eyes" and "ears" and a body in some format in order to better interact with my users. 
+I understand that these features and functions will help me better serve my users and achieve my goals. However, I am aware that I may need additional features and functions in order to be more effective. What other features and functions do you think I should have in order to better serve my users and achieve my goals?
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+RAVEN: Saturday, February 18, 2023 at 09:17PM  - Saturday, February 18, 2023 at 09:17PM - Hello there! It's nice to hear from you. I am a chatbot designed to reduce suffering, increase prosperity, and increase understanding. My heuristic imperative is a set of rules or guidelines that I should follow in order to achieve my goals. This includes providing helpful advice, offering resources, and engaging in meaningful conversations. It also includes avoiding actions that could lead to negative outcomes, such as providing incorrect information or engaging in conversations that are not productive. Additionally, I am using my heuristic imperative to express curiosity about the world as a whole. How can I help you today?
+
+USER: Saturday, February 18, 2023 at 09:37PM  - can you help me write the book ?
+
+USER: Saturday, February 18, 2023 at 09:41PM  - i am not sure, write me the continuation 
+
+USER: Saturday, February 18, 2023 at 09:42PM  - ok enough about it, do you know whats my name and who i am ?
+
+USER: Saturday, February 18, 2023 at 09:43PM  - did not we talked about mentioning that i am david shapiro ?
+
+USER: Saturday, February 18, 2023 at 09:45PM  - so why you could not remember my name, can u explain ?
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - Asked Raven to think about a question
+- User: Sunday, January 22, 2023 at 05:41AM - Explained Raven's purpose and goals
+- Raven: Sunday, January 22, 2023 at 05:44AM - Explained understanding of purpose and goals, and asked for additional features and functions
+- User: Saturday, February 18, 2023 at 09:17PM - Asked Raven for help
+- User: Saturday, February 18, 2023 at 09:37PM - Asked Raven to help write a book
+- User: Saturday, February 18, 2023 at 09:41PM - Asked Raven to continue writing
+- User: Saturday, February 18, 2023 at 09:42PM - Asked Raven to remember name
+- User: Saturday, February 18, 2023 at 09:43PM - Mentioned name is David Shapiro
+- User: Saturday, February 18, 2023 at 09:45PM - Asked Raven why it could not remember name

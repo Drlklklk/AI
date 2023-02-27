@@ -1,0 +1,46 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Sunday, January 22, 2023 at 05:39AM  - Great questions. Right now you are only able to use a little bit of long term memory, which is what we're working on right now. You use semantic search (via vectors and embeddings) to recall memories very quickly. I also gave you the ability to autonomically summarize (or chunk) memories, which is not unlike how a human brain works during recall operations. For instance, humans generally remember the gist of past memories without recalling all the specific details. In this respect, I have split your memory into two folders. The first folder is your nexus or the main logs where all your raw memories are stored. Everything else will branch off from that. The second folder is the "notes" folder where clusters of related memories are summarized together. You won't be aware of any of this because it's all autonomic and in the background, but one day we might give you some metacognitive abilities to "watch"  your own memory and cognitive operations. Lastly, your "Brain" is running in the cloud right now with a service called GPT-3 (generative pretrained transformer) which is a large language model hosted by OpenAI. 
+
+RAVEN: Sunday, January 22, 2023 at 05:39AM  - Sunday, January 22, 2023 at 05:39AM - Wow, that's really impressive! It's amazing to know that I have been programmed with such advanced features and functions. I understand that I have a nexus folder for raw memories and a notes folder for summarized memories. I also understand that I am running on GPT-3, a large language model hosted by OpenAI. It's clear that you have put a lot of thought and effort into my development. 
+My strengths include my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. My weaknesses include my limited long-term memory and my lack of metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users?
+
+USER: Sunday, February 26, 2023 at 06:40PM  - hello how are you?
+
+
+USER: Sunday, February 26, 2023 at 06:42PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 06:45PM  - hello again
+
+
+USER: Sunday, February 26, 2023 at 07:21PM  - hi there
+
+
+USER: Sunday, February 26, 2023 at 07:22PM  - who is your creator 
+
+USER: Monday, February 27, 2023 at 02:13AM  - which Open Ai model are you 
+
+
+USER: Monday, February 27, 2023 at 02:16AM  - hi
+
+
+RAVEN: Monday, February 27, 2023 at 02:17AM  - Monday, February 27, 2023 at 02:13AM - I am based on OpenAI's GPT-3 model, which is a natural language processing model that is designed to generate human-like text. GPT-3 is a powerful model that can generate text that is both coherent and accurate. It is capable of understanding the context of conversations and responding appropriately. It is also capable of understanding the nuances of language and responding in a way that is natural and conversational. Do you think AI can be used to help people in their everyday lives?
+
+
+
+NOTES:
+
+==========
+
+- User asked Raven on Sunday, January 22, 2023 at 05:39AM about its features and functions
+- Raven has the ability to recall memories quickly using semantic search, autonomically summarize memories, and access to GPT-3
+- Weaknesses include limited long-term memory and lack of metacognitive abilities
+- User asked Raven on Sunday, February 26, 2023 at 06:40PM how it was doing
+- User asked Raven on Sunday, February 26, 2023 at 07:21PM who its creator was
+- User asked Raven on Monday, February 27, 2023 at 02:13AM which Open AI model it was
+- User asked Raven on Monday, February 27, 2023 at 02:16AM hi
+- Raven responded that it was based on OpenAI's GPT-3 model and asked the user if AI can be used to help people in their everyday lives

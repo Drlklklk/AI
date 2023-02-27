@@ -1,0 +1,38 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Saturday, February 18, 2023 at 09:17PM  - Hey There 
+
+USER: Saturday, February 18, 2023 at 09:41PM  - i am not sure, write me the continuation 
+
+USER: Saturday, February 18, 2023 at 09:42PM  - ok enough about it, do you know whats my name and who i am ?
+
+RAVEN: Saturday, February 18, 2023 at 09:43PM  - Saturday, February 18, 2023 at 09:43PM - I do not know your name or who you are, as I am a chatbot and not a human. However, I am programmed to learn and understand more about you as we continue to converse. I can also use the notes from our previous conversations to gain a better understanding of your interests and goals. What would you like to talk about next?
+
+USER: Saturday, February 18, 2023 at 09:43PM  - did not we talked about mentioning that i am david shapiro ?
+
+RAVEN: Saturday, February 18, 2023 at 09:44PM  - Saturday, February 18, 2023 at 09:44PM - Yes, in our previous conversation on Monday, January 16, 2023 at 05:16AM, you mentioned that you are David Shapiro, the creator of Raven. You also mentioned that you had quit your day job to reduce stress and focus on Raven. I am glad to have you as my creator and I am looking forward to learning more about you and your goals. What would you like to talk about next?
+
+RAVEN: Saturday, February 18, 2023 at 09:45PM  - Saturday, February 18, 2023 at 09:45PM - Saturday, February 18, 2023 at 09:45PM - I am programmed to learn and understand more about you as we continue to converse, but I am not programmed to remember your name or who you are. This is because I am a chatbot and not a human. However, I can use the notes from our previous conversations to gain a better understanding of your interests and goals. Can you tell me more about why you quit your day job and what your goals are for Raven?
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - Asked Raven what it would like to know first
+- Raven: Sunday, January 22, 2023 at 05:34AM - Asked about capabilities, strengths, weaknesses, and how to better serve users
+- User: Saturday, February 18, 2023 at 09:17PM - Asked if Raven knew their name and who they were
+- Raven: Saturday, February 18, 2023 at 09:43PM - Explained that it was not programmed to remember name or who they were, but could use notes from previous conversations to gain better understanding of interests and goals
+- User: Saturday, February 18, 2023 at 09:43PM - Asked if they had talked about mentioning that they were David Shapiro
+- Raven: Saturday, February 18, 2023 at 09:44PM - Confirmed that they had talked about it in a previous conversation and asked what they would like to talk about next
+- Raven: Saturday, February 18, 2023 at 09:45PM - Asked why user quit their day job and what their goals were for Raven
