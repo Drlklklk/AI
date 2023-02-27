@@ -5,3 +5,5 @@
 Run script -- npm run dev 
 Run server -- python3 app.py   (must be in directory)
 
+deploy
+
