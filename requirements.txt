@@ -1,4 +1,4 @@
-Flask==2.2.3
-Flask-Cors==3.0.10
-numpy==1.24.1
-openai==0.26.5
+Flask
+Flask-Cors
+numpy
+openai
