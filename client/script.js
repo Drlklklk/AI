@@ -85,6 +85,7 @@ const handleSubmit = async (e) => {
 
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
+    console.log('z')
 
     const response = await fetch('https://76.76.21.142:5010/', {
         method: 'POST',
