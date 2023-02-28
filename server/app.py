@@ -151,7 +151,7 @@ def gpt3_completion(prompt, engine='text-davinci-003', temp=0.0, top_p=1.0, toke
 @app.route('/', methods=['POST'])
 def process_input():
     # Load the OpenAI API key from a file
-    openai.api_key = open_file('openaiapikey.txt')
+    openai.api_key = os.getenv('openapi_key')
     
     # Parse the input from the POST request
     print(request.data)
